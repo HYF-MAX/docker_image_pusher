@@ -1,5 +1,13 @@
 alpine
 kasmweb/nginx:1.25.3
 python:alpine3.19
+goharbor/harbor-portal:v2.9.2
 goharbor/harbor-jobservice:v2.9.2
 goharbor/nginx-photon:v2.9.2
+goharbor/harbor-log:v2.9.2
+goharbor/registry-photon:v2.9.2
+goharbor/harbor-registryctl:v2.9.2
+goharbor/harbor-db:v2.9.2
+goharbor/harbor-core:v2.9.2
+goharbor/redis-photon:v2.9.2
+
