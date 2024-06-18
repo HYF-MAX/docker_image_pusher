@@ -21,4 +21,4 @@ registry.k8s.io/pause:3.9
 registry.k8s.io/kube-proxy:v1.28.2
 docker.io/flannel/flannel-cni-plugin:v1.1.2
 registry.k8s.io/pause
-v1.4.1-flannel1
+flannel/flannel-cni-plugin:v1.4.1
