@@ -1,1 +1,1 @@
-etcd:0.1
+quay.io/coreos/etcd
