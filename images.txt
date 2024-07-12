@@ -1,1 +1,1 @@
-quay.io/coreos/etcd
+etcd：last
