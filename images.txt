@@ -1,1 +1,1 @@
-etcd：3.30
+quay.io/coreos/etcd:latest
